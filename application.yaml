@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://AbilashKriz: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@github.com/AbilashKriz/argocd-app-config.git
-    targetRevision: HEAD
+    # targetRevision: HEAD
     path: dev
   destination: 
     server: https://kubernetes.default.svc
